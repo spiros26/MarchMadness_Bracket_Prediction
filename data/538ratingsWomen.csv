@@ -1,0 +1,389 @@
+Season,TeamID,TeamName,538rating
+2016,3163,Connecticut,113.09
+2016,3124,Baylor,101.59
+2016,3323,Notre Dame,101.07
+2016,3376,South Carolina,101.07
+2016,3268,Maryland,99.01
+2016,3333,Oregon State,95.42
+2016,3326,Ohio State,93.9
+2016,3400,Texas,93.58
+2016,3390,Stanford,92.4
+2016,3257,Louisville,92.24
+2016,3199,Florida State,91.5
+2016,3113,Arizona State,91.32
+2016,3246,Kentucky,90.97
+2016,3177,DePaul,90.08
+2016,3277,Michigan State,90.07
+2016,3417,UCLA,89.93
+2016,3393,Syracuse,89.59
+2016,3280,Mississippi State,89.46
+2016,3397,Tennessee,88.93
+2016,3401,Texas A&M,88.71
+2016,3378,South Florida,88.52
+2016,3328,Oklahoma,87.47
+2016,3452,West Virginia,87
+2016,3274,Miami (FL),86.51
+2016,3449,Washington,86.47
+2016,3208,Georgia,84.53
+2016,3343,Princeton,84.15
+2016,3196,Florida,83.36
+2016,3329,Oklahoma State,83.28
+2016,3453,Green Bay,83.06
+2016,3241,James Madison,83.04
+2016,3345,Purdue,83.02
+2016,3203,George Washington,82.9
+2016,3281,Missouri,82.9
+2016,3231,Indiana,82.85
+2016,3385,St. John's (NY),82.19
+2016,3371,Seton Hall,81.76
+2016,3107,Albany (NY),80.9
+2016,3182,Duquesne,80.74
+2016,3243,Kansas State,80.28
+2016,3120,Auburn,80.17
+2016,3140,Brigham Young,80.17
+2016,3161,Colorado State,80.15
+2016,3355,South Dakota State,80.11
+2016,3119,Army,79.02
+2016,3335,Pennsylvania,78.59
+2016,3292,Middle Tennessee,78.25
+2016,3382,St. Bonaventure,77.32
+2016,3151,Chattanooga,76.47
+2016,3283,Missouri State,75.75
+2016,3362,San Francisco,74.26
+2016,3218,Hawaii,74.1
+2016,3225,Idaho,72.69
+2016,3125,Belmont,72.64
+2016,3308,New Mexico State,71.42
+2016,3233,Iona,71.24
+2016,3138,Buffalo,71.12
+2016,3239,Jacksonville,69.99
+2016,3407,Troy,68.25
+2016,3146,Central Arkansas,66.93
+2016,3421,North Carolina-Asheville,66.13
+2016,3352,Robert Morris,64.62
+2016,3299,North Carolina A&T,64.33
+2016,3106,Alabama State,59.87
+2017,3163,Connecticut,111.43
+2017,3124,Baylor,104.45
+2017,3323,Notre Dame,101.2
+2017,3376,South Carolina,100.32
+2017,3268,Maryland,96.27
+2017,3390,Stanford,95.07
+2017,3449,Washington,94.81
+2017,3280,Mississippi State,94.69
+2017,3400,Texas,94.37
+2017,3199,Florida State,94.36
+2017,3333,Oregon State,93.24
+2017,3257,Louisville,92.24
+2017,3417,UCLA,91.74
+2017,3181,Duke,90.94
+2017,3326,Ohio State,90.5
+2017,3393,Syracuse,89.29
+2017,3246,Kentucky,89.12
+2017,3397,Tennessee,88.89
+2017,3452,West Virginia,88.26
+2017,3274,Miami (FL),88.19
+2017,3177,DePaul,87.94
+2017,3113,Arizona State,87.68
+2017,3401,Texas A&M,85.97
+2017,3328,Oklahoma,85.68
+2017,3243,Kansas State,84.48
+2017,3301,North Carolina State,84.37
+2017,3453,Green Bay,84.36
+2017,3277,Michigan State,84.28
+2017,3281,Missouri,83.86
+2017,3332,Oregon,83.06
+2017,3378,South Florida,82.58
+2017,3143,California,82.52
+2017,3345,Purdue,82.06
+2017,3235,Iowa State,81.33
+2017,3396,Temple,81.23
+2017,3211,Gonzaga,81.07
+2017,3261,Louisiana State,80.97
+2017,3120,Auburn,80.45
+2017,3443,Western Kentucky,80.25
+2017,3166,Creighton,79.96
+2017,3266,Marquette,79.73
+2017,3179,Drake,79.43
+2017,3173,Dayton,78.32
+2017,3189,Elon,77.86
+2017,3346,Quinnipiac,77.11
+2017,3320,Northern Iowa,77.1
+2017,3195,Florida Gulf Coast,76.81
+2017,3405,Toledo,76.26
+2017,3151,Chattanooga,76.21
+2017,3335,Pennsylvania,75.79
+2017,3125,Belmont,73.32
+2017,3129,Boise State,73.12
+2017,3137,Bucknell,72.37
+2017,3107,Albany (NY),72.03
+2017,3442,Western Illinois,71.83
+2017,3253,Long Beach State,71.27
+2017,3286,Montana State,71.12
+2017,3308,New Mexico State,70.78
+2017,3407,Troy,70.54
+2017,3146,Central Arkansas,68.04
+2017,3214,Hampton,66.02
+2017,3352,Robert Morris,64.43
+2017,3411,Texas Southern,62.72
+2017,3421,North Carolina-Asheville,62.02
+2018,3163,Connecticut,112.83
+2018,3124,Baylor,105.29
+2018,3280,Mississippi State,102.16
+2018,3323,Notre Dame,101.01
+2018,3257,Louisville,99.74
+2018,3400,Texas,98.03
+2018,3332,Oregon,97.76
+2018,3376,South Carolina,96.62
+2018,3417,UCLA,94.98
+2018,3326,Ohio State,93.97
+2018,3199,Florida State,92.73
+2018,3397,Tennessee,91.81
+2018,3390,Stanford,91.3
+2018,3268,Maryland,90.6
+2018,3333,Oregon State,90.25
+2018,3177,DePaul,89.76
+2018,3181,Duke,89.06
+2018,3378,South Florida,88.61
+2018,3453,Green Bay,88.23
+2018,3401,Texas A&M,88.22
+2018,3113,Arizona State,87.74
+2018,3301,North Carolina State,87.57
+2018,3281,Missouri,87.15
+2018,3266,Marquette,86.9
+2018,3276,Michigan,86.86
+2018,3329,Oklahoma State,86.06
+2018,3328,Oklahoma,85.7
+2018,3208,Georgia,85.65
+2018,3234,Iowa,85.55
+2018,3143,California,85.11
+2018,3274,Miami (FL),84.59
+2018,3355,South Dakota State,84.23
+2018,3278,Minnesota,83.88
+2018,3393,Syracuse,83.57
+2018,3261,Louisiana State,83.37
+2018,3211,Gonzaga,81.47
+2018,3438,Virginia,81.44
+2018,3437,Villanova,81.44
+2018,3141,Central Michigan,81.36
+2018,3138,Buffalo,81.12
+2018,3166,Creighton,80.95
+2018,3343,Princeton,80.84
+2018,3125,Belmont,79.98
+2018,3173,Dayton,79.88
+2018,3346,Quinnipiac,79.85
+2018,3304,Nebraska,79.79
+2018,3189,Elon,79.75
+2018,3179,Drake,79.56
+2018,3443,Western Kentucky,79.3
+2018,3273,Mercer,78.69
+2018,3195,Florida Gulf Coast,78.55
+2018,3294,Northern Colorado,76.66
+2018,3203,George Washington,75.17
+2018,3114,Arkansas-Little Rock,73.64
+2018,3263,Maine,73.34
+2018,3129,Boise State,72.44
+2018,3110,American,71.55
+2018,3251,Liberty,69.68
+2018,3384,Saint Francis (PA),67.54
+2018,3169,Cal State Northridge,66.59
+2018,3370,Seattle,65.92
+2018,3299,North Carolina A&T,65.27
+2018,3311,Nicholls State,62.81
+2018,3212,Grambling,60.58
+2019,3323,Notre Dame,106.24
+2019,3124,Baylor,105.81
+2019,3163,Connecticut,104.53
+2019,3280,Mississippi State,102.18
+2019,3332,Oregon,100.19
+2019,3257,Louisville,99.65
+2019,3390,Stanford,95.49
+2019,3333,Oregon State,93.35
+2019,3266,Marquette,92.27
+2019,3234,Iowa,92.14
+2019,3268,Maryland,91.47
+2019,3376,South Carolina,91.2
+2019,3301,North Carolina State,90.16
+2019,3417,UCLA,89.59
+2019,3400,Texas,89.55
+2019,3177,DePaul,88.87
+2019,3393,Syracuse,88.67
+2019,3235,Iowa State,88.45
+2019,3113,Arizona State,88.31
+2019,3401,Texas A&M,88.25
+2019,3274,Miami (FL),87.82
+2019,3281,Missouri,87.4
+2019,3199,Florida State,87.07
+2019,3355,South Dakota State,86.59
+2019,3141,Central Michigan,86.21
+2019,3397,Tennessee,85.4
+2019,3246,Kentucky,85.21
+2019,3276,Michigan,84.84
+2019,3211,Gonzaga,84.76
+2019,3138,Buffalo,84.43
+2019,3143,California,84.29
+2019,3353,Rutgers,83.22
+2019,3277,Michigan State,83.02
+2019,3377,South Dakota,82.9
+2019,3231,Indiana,81.96
+2019,3179,Drake,81.87
+2019,3243,Kansas State,81.06
+2019,3120,Auburn,80.68
+2019,3346,Quinnipiac,80.5
+2019,3314,North Carolina,80.36
+2019,3343,Princeton,80.23
+2019,3125,Belmont,79.97
+2019,3416,Central Florida,79.89
+2019,3195,Florida Gulf Coast,79.84
+2019,3283,Missouri State,78.39
+2019,3349,Rice,77.62
+2019,3140,Brigham Young,77.39
+2019,3413,UC-Davis,76.81
+2019,3155,Clemson,76.62
+2019,3137,Bucknell,76.6
+2019,3460,Wright State,76.28
+2019,3200,Fordham,76.21
+2019,3129,Boise State,75.97
+2019,3263,Maine,75.68
+2019,3273,Mercer,74.21
+2019,3114,Arkansas-Little Rock,74.2
+2019,3340,Portland State,72.17
+2019,3347,Radford,70.15
+2019,3308,New Mexico State,66.98
+2019,3352,Robert Morris,66.86
+2019,3406,Towson,66.57
+2019,3101,Abilene Christian,65.11
+2019,3126,Bethune-Cookman,63.54
+2019,3380,Southern,61.9
+2021,3390,Stanford,106.54
+2021,3163,Connecticut,104.27
+2021,3376,South Carolina,101.83
+2021,3124,Baylor,100.75
+2021,3268,Maryland,99.95
+2021,3301,North Carolina State,96.71
+2021,3257,Louisville,96.01
+2021,3112,Arizona,93.87
+2021,3417,UCLA,95.27
+2021,3401,Texas A&M,93.54
+2021,3231,Indiana,92.59
+2021,3332,Oregon,92.67
+2021,3397,Tennessee,89.82
+2021,3116,Arkansas,89.61
+2021,3208,Georgia,89.58
+2021,3246,Kentucky,88.96
+2021,3211,Gonzaga,88.24
+2021,3353,Rutgers,88.28
+2021,3235,Iowa State,88.03
+2021,3234,Iowa,88.15
+2021,3452,West Virginia,87.72
+2021,3333,Oregon State,88.34
+2021,3276,Michigan,87.3
+2021,3283,Missouri State,87.23
+2021,3321,Northwestern,87.52
+2021,3400,Texas,86.82
+2021,3210,Georgia Tech,86.1
+2021,3439,Virginia Tech,85.57
+2021,3393,Syracuse,85.25
+2021,3329,Oklahoma State,85.51
+2021,3450,Washington State,83.63
+2021,3378,South Florida,83.45
+2021,3277,Michigan State,83.41
+2021,3266,Marquette,83.83
+2021,3104,Alabama,84.22
+2021,3199,Florida State,83.63
+2021,3377,South Dakota,83.52
+2021,3314,North Carolina,82.74
+2021,3448,Wake Forest,82.23
+2021,3195,Florida Gulf Coast,81.37
+2021,3355,South Dakota State,81.43
+2021,3416,Central Florida,81.85
+2021,3372,Stephen F. Austin,81.04
+2021,3140,Brigham Young,79.99
+2021,3141,Central Michigan,77.01
+2021,3226,Idaho State,76.71
+2021,3125,Belmont,75.93
+2021,3133,Bradley,76.78
+2021,3433,Virginia Commonwealth,73.65
+2021,3460,Wright State,74.17
+2021,3413,UC-Davis,73.69
+2021,3292,Middle Tennessee,73.3
+2021,3407,Troy,72.97
+2021,3461,Wyoming,72.71
+2021,3180,Drexel,71.26
+2021,3250,Lehigh,70.57
+2021,3265,Marist,71.02
+2021,3392,Stony Brook,69.69
+2021,3238,Jackson State,68.54
+2021,3299,North Carolina A&T,67.23
+2021,3219,High Point,66.46
+2021,3273,Mercer,66.87
+2021,3291,Mount St. Mary's,65.36
+2021,3430,Utah Valley,61.63
+2022,3376,South Carolina,106.36
+2022,3390,Stanford,101.83
+2022,3301,North Carolina State,101.78
+2022,3163,Connecticut,98.35
+2022,3257,Louisville,97.4
+2022,3124,Baylor,96.65
+2022,3400,Texas,95.21
+2022,3234,Iowa,93.5
+2022,3235,Iowa State,91.86
+2022,3268,Maryland,91.32
+2022,3231,Indiana,91.08
+2022,3314,North Carolina,90.85
+2022,3276,Michigan,90.12
+2022,3439,Virginia Tech,89.97
+2022,3332,Oregon,89.36
+2022,3397,Tennessee,89.1
+2022,3140,Brigham Young,88.95
+2022,3246,Kentucky,88.13
+2022,3261,Louisiana State,88.09
+2022,3416,Central Florida,87.39
+2022,3211,Gonzaga,87.36
+2022,3323,Notre Dame,87.32
+2022,3326,Ohio State,87.24
+2022,3112,Arizona,87.1
+2022,3279,Mississippi,86.46
+2022,3328,Oklahoma,86.15
+2022,3343,Princeton,85.61
+2022,3208,Georgia,85.57
+2022,3210,Georgia Tech,85.27
+2022,3304,Nebraska,85.26
+2022,3377,South Dakota,84.72
+2022,3160,Colorado,84.25
+2022,3378,South Florida,83.73
+2022,3116,Arkansas,83.4
+2022,3195,Florida Gulf Coast,83.19
+2022,3428,Utah,83.14
+2022,3173,Dayton,83.11
+2022,3274,Miami (FL),83.11
+2022,3166,Creighton,82.22
+2022,3243,Kansas State,82.22
+2022,3242,Kansas,81.99
+2022,3283,Missouri State,81.86
+2022,3372,Stephen F. Austin,81.68
+2022,3199,Florida State,81.39
+2022,3196,Florida,81.32
+2022,3450,Washington State,80.76
+2022,3177,DePaul,80.54
+2022,3138,Buffalo,80.26
+2022,3125,Belmont,80.24
+2022,3269,Massachusetts,79.69
+2022,3237,IUPUI,79.3
+2022,3437,Villanova,78.78
+2022,3424,Nevada-Las Vegas,76.65
+2022,3174,Delaware,76.21
+2022,3150,Charlotte,75.98
+2022,3238,Jackson State,75.51
+2022,3273,Mercer,73.84
+2022,3229,Illinois State,73.52
+2022,3426,Texas-Arlington,73.23
+2022,3193,Fairfield,72.91
+2022,3218,Hawaii,70.23
+2022,3286,Montana State,69.64
+2022,3110,American,69.26
+2022,3255,Longwood,68.38
+2022,3107,Albany (NY),67.45
+2022,3224,Howard,64.18
+2022,3291,Mount St. Mary's,63.48
+2022,3230,Incarnate Word,58.31

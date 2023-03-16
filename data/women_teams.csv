@@ -1,0 +1,362 @@
+TeamID,TeamName,crefName
+3101,Abilene Chr,Abilene Christian
+3102,Air Force,Air Force
+3103,Akron,Akron
+3104,Alabama,Alabama
+3105,Alabama A&M,Alabama A&M
+3106,Alabama St,Alabama State
+3107,SUNY Albany,Albany (NY)
+3108,Alcorn St,Alcorn State
+3110,American Univ,American
+3111,Appalachian St,Appalachian State
+3112,Arizona,Arizona
+3113,Arizona St,Arizona State
+3114,Ark Little Rock,Little Rock
+3115,Ark Pine Bluff,Arkansas-Pine Bluff
+3116,Arkansas,Arkansas
+3117,Arkansas St,Arkansas State
+3119,Army,Army
+3120,Auburn,Auburn
+3122,Austin Peay,Austin Peay
+3123,Ball St,Ball State
+3124,Baylor,Baylor
+3125,Belmont,Belmont
+3126,Bethune-Cookman,Bethune-Cookman
+3127,Binghamton,Binghamton
+3129,Boise St,Boise State
+3130,Boston College,Boston College
+3131,Boston Univ,Boston University
+3132,Bowling Green,Bowling Green State
+3133,Bradley,Bradley
+3135,Brown,Brown
+3136,Bryant,Bryant
+3137,Bucknell,Bucknell
+3138,Buffalo,Buffalo
+3139,Butler,Butler
+3140,BYU,Brigham Young
+3141,C Michigan,Central Michigan
+3142,Cal Poly,Cal Poly
+3143,California,California
+3144,Campbell,Campbell
+3145,Canisius,Canisius
+3146,Cent Arkansas,Central Arkansas
+3148,Central Conn,Central Connecticut State
+3149,Charleston So,Charleston Southern
+3150,Charlotte,Charlotte
+3151,Chattanooga,Chattanooga
+3152,Chicago St,Chicago State
+3153,Cincinnati,Cincinnati
+3155,Clemson,Clemson
+3156,Cleveland St,Cleveland State
+3157,Coastal Car,Coastal Carolina
+3158,Col Charleston,College of Charleston
+3159,Colgate,Colgate
+3160,Colorado,Colorado
+3161,Colorado St,Colorado State
+3162,Columbia,Columbia
+3163,Connecticut,Connecticut
+3164,Coppin St,Coppin State
+3165,Cornell,Cornell
+3166,Creighton,Creighton
+3167,CS Bakersfield,Cal State Bakersfield
+3168,CS Fullerton,Cal State Fullerton
+3169,CS Northridge,Cal State Northridge
+3170,CS Sacramento,Cal State Sacramento
+3171,Dartmouth,Dartmouth
+3172,Davidson,Davidson
+3173,Dayton,Dayton
+3174,Delaware,Delaware
+3175,Delaware St,Delaware State
+3176,Denver,Denver
+3177,DePaul,DePaul
+3178,Detroit,Detroit Mercy
+3179,Drake,Drake
+3180,Drexel,Drexel
+3181,Duke,Duke
+3182,Duquesne,Duquesne
+3183,E Illinois,Eastern Illinois
+3184,E Kentucky,Eastern Kentucky
+3185,E Michigan,Eastern Michigan
+3186,E Washington,Eastern Washington
+3187,East Carolina,East Carolina
+3188,SIUE,Southern Illinois
+3189,Elon,Elon
+3190,ETSU,East Tennessee State
+3191,Evansville,Evansville
+3192,F Dickinson,Fairleigh Dickinson
+3193,Fairfield,Fairfield
+3194,FL Atlantic,Florida Atlantic
+3195,FL Gulf Coast,Florida Gulf Coast
+3196,Florida,Florida
+3197,Florida A&M,Florida A&M
+3198,Florida Intl,Florida International
+3199,Florida St,Florida State
+3200,Fordham,Fordham
+3201,Fresno St,Fresno State
+3202,Furman,Furman
+3203,G Washington,George Washington
+3204,Ga Southern,Georgia Southern
+3205,Gardner Webb,Gardner-Webb
+3206,George Mason,George Mason
+3207,Georgetown,Georgetown
+3208,Georgia,Georgia
+3209,Georgia St,Georgia State
+3210,Georgia Tech,Georgia Tech
+3211,Gonzaga,Gonzaga
+3212,Grambling,Grambling
+3213,Grand Canyon,Grand Canyon
+3214,Hampton,Hampton
+3216,Hartford,Hartford
+3217,Harvard,Harvard
+3218,Hawaii,Hawaii
+3219,High Point,High Point
+3220,Hofstra,Hofstra
+3221,Holy Cross,Holy Cross
+3222,Houston,Houston
+3223,Houston Chr,Houston Christian
+3224,Howard,Howard
+3225,Idaho,Idaho
+3226,Idaho St,Idaho State
+3227,IL Chicago,Illinois-Chicago
+3228,Illinois,Illinois
+3229,Illinois St,Illinois State
+3230,Incarnate Word,Incarnate Word
+3231,Indiana,Indiana
+3232,Indiana St,Indiana State
+3233,Iona,Iona
+3234,Iowa,Iowa
+3235,Iowa St,Iowa State
+3236,PFW,Purdue-Fort Wayne
+3237,IUPUI,IUPUI
+3238,Jackson St,Jackson State
+3239,Jacksonville,Jacksonville
+3240,Jacksonville St,Jacksonville State
+3241,James Madison,James Madison
+3242,Kansas,Kansas
+3243,Kansas St,Kansas State
+3244,Kennesaw,Kennesaw State
+3245,Kent,Kent State
+3246,Kentucky,Kentucky
+3247,La Salle,La Salle
+3248,Lafayette,Lafayette
+3249,Lamar,Lamar
+3250,Lehigh,Lehigh
+3251,Liberty,Liberty
+3252,Lipscomb,Lipscomb
+3253,Long Beach St,Long Beach State
+3254,LIU Brooklyn,Long Island University
+3255,Longwood,Longwood
+3256,Louisiana Tech,Louisiana Tech
+3257,Louisville,Louisville
+3258,Loy Marymount,Loyola Marymount
+3259,Loyola MD,Loyola (MD)
+3260,Loyola-Chicago,Loyola (IL)
+3261,LSU,Louisiana State
+3262,MA Lowell,Massachusetts-Lowell
+3263,Maine,Maine
+3264,Manhattan,Manhattan
+3265,Marist,Marist
+3266,Marquette,Marquette
+3267,Marshall,Marshall
+3268,Maryland,Maryland
+3269,Massachusetts,Massachusetts
+3270,McNeese St,McNeese State
+3271,MD E Shore,Maryland-Eastern Shore
+3272,Memphis,Memphis
+3273,Mercer,Mercer
+3274,Miami FL,Miami (FL)
+3275,Miami OH,Miami (OH)
+3276,Michigan,Michigan
+3277,Michigan St,Michigan State
+3278,Minnesota,Minnesota
+3279,Mississippi,Mississippi
+3280,Mississippi St,Mississippi State
+3281,Missouri,Missouri
+3282,Missouri KC,Missouri
+3283,Missouri St,Missouri State
+3284,Monmouth NJ,Monmouth
+3285,Montana,Montana
+3286,Montana St,Montana State
+3287,Morehead St,Morehead State
+3288,Morgan St,Morgan State
+3290,MS Valley St,Mississippi Valley State
+3291,Mt St Mary's,Mount St. Mary's
+3292,MTSU,Middle Tennessee
+3293,Murray St,Murray State
+3294,N Colorado,Northern Colorado
+3295,N Dakota St,North Dakota State
+3296,N Illinois,Northern Illinois
+3297,N Kentucky,Northern Kentucky
+3298,Navy,Navy
+3299,NC A&T,North Carolina A&T
+3300,NC Central,North Carolina Central
+3301,NC State,NC State
+3303,NE Omaha,Omaha
+3304,Nebraska,Nebraska
+3305,Nevada,Nevada
+3306,New Hampshire,New Hampshire
+3307,New Mexico,New Mexico
+3308,New Mexico St,New Mexico State
+3309,New Orleans,New Orleans
+3310,Niagara,Niagara
+3311,Nicholls St,Nicholls State
+3312,NJIT,NJIT
+3313,Norfolk St,Norfolk State
+3314,North Carolina,North Carolina
+3315,North Dakota,North Dakota
+3316,North Florida,North Florida
+3317,North Texas,North Texas
+3318,Northeastern,Northeastern
+3319,Northern Arizona,Northern Arizona
+3320,Northern Iowa,Northern Iowa
+3321,Northwestern,Northwestern
+3322,Northwestern LA,Northwestern
+3323,Notre Dame,Notre Dame
+3324,Oakland,Oakland
+3325,Ohio,Ohio
+3326,Ohio St,Ohio State
+3328,Oklahoma,Oklahoma
+3329,Oklahoma St,Oklahoma State
+3330,Old Dominion,Old Dominion
+3331,Oral Roberts,Oral Roberts
+3332,Oregon,Oregon
+3333,Oregon St,Oregon State
+3334,Pacific,Pacific
+3335,Penn,Pennsylvania
+3336,Penn St,Penn State
+3337,Pepperdine,Pepperdine
+3338,Pittsburgh,Pittsburgh
+3339,Portland,Portland
+3340,Portland St,Portland State
+3341,Prairie View,Prairie View
+3342,Presbyterian,Presbyterian
+3343,Princeton,Princeton
+3344,Providence,Providence
+3345,Purdue,Purdue
+3346,Quinnipiac,Quinnipiac
+3347,Radford,Radford
+3348,Rhode Island,Rhode Island
+3349,Rice,Rice
+3350,Richmond,Richmond
+3351,Rider,Rider
+3352,Robert Morris,Robert Morris
+3353,Rutgers,Rutgers
+3354,S Carolina St,South Carolina State
+3355,S Dakota St,South Dakota State
+3356,S Illinois,Southern Illinois
+3357,Sacred Heart,Sacred Heart
+3358,Sam Houston St,Sam Houston State
+3359,Samford,Samford
+3360,San Diego,San Diego
+3361,San Diego St,San Diego State
+3362,San Francisco,San Francisco
+3363,San Jose St,San Jose State
+3364,UC Santa Barbara,UC Santa Barbara
+3365,Santa Clara,Santa Clara
+3367,SC Upstate,South Carolina Upstate
+3368,SE Louisiana,Southeastern Louisiana
+3369,SE Missouri St,Southeastern Missouri State
+3370,Seattle,Seattle
+3371,Seton Hall,Seton Hall
+3372,SF Austin,Stephen F. Austin
+3373,Siena,Siena
+3374,SMU,Southern Methodist
+3375,South Alabama,South Alabama
+3376,South Carolina,South Carolina
+3377,South Dakota,South Dakota
+3378,South Florida,South Florida
+3379,Southern Miss,Southern Mississippi
+3380,Southern Univ,Southern
+3381,Southern Utah,Southern Utah
+3382,St Bonaventure,St. Bonaventure
+3383,St Francis NY,St. Francis (NY)
+3384,St Francis PA,Saint Francis (PA)
+3385,St John's,St. John's (NY)
+3386,St Joseph's PA,Saint Joseph's
+3387,St Louis,Saint Louis
+3388,St Mary's CA,Saint Mary's (CA)
+3389,St Peter's,Saint Peter's
+3390,Stanford,Stanford
+3391,Stetson,Stetson
+3392,Stony Brook,Stony Brook
+3393,Syracuse,Syracuse
+3394,TAM C. Christi,Texas A&M-Corpus Christi
+3395,TCU,TCU
+3396,Temple,Temple
+3397,Tennessee,Tennessee
+3398,Tennessee St,Tennessee State
+3399,Tennessee Tech,Tennessee Tech
+3400,Texas,Texas
+3401,Texas A&M,Texas A&M
+3402,Texas St,Texas State
+3403,Texas Tech,Texas Tech
+3404,TN Martin,Tennessee-Martin
+3405,Toledo,Toledo
+3406,Towson,Towson
+3407,Troy,Troy
+3408,Tulane,Tulane
+3409,Tulsa,Tulsa
+3410,UTRGV,Texas-Rio Grande Valley
+3411,TX Southern,Texas Southern
+3412,UAB,UAB
+3413,UC Davis,UC Davis
+3414,UC Irvine,UC Irvine
+3415,UC Riverside,UC Riverside
+3416,UCF,Central Florida
+3417,UCLA,UCLA
+3418,Louisiana,Louisiana
+3419,ULM,Louisiana-Monroe
+3420,UMBC,Maryland-Baltimore County
+3421,UNC Asheville,UNC Asheville
+3422,UNC Greensboro,UNC Greensboro
+3423,UNC Wilmington,UNC Wilmington
+3424,UNLV,Nevada-Las Vegas
+3425,USC,Southern California
+3426,UT Arlington,UT Arlington
+3427,UT San Antonio,UTSA
+3428,Utah,Utah
+3429,Utah St,Utah State
+3430,Utah Valley,Utah Valley
+3431,UTEP,UTEP
+3433,VCU,Virginia Commonwealth
+3434,Valparaiso,Valparaiso
+3435,Vanderbilt,Vanderbilt
+3436,Vermont,Vermont
+3437,Villanova,Villanova
+3438,Virginia,Virginia
+3439,Virginia Tech,Virginia Tech
+3441,W Carolina,Western Carolina
+3442,W Illinois,Western Illinois
+3443,WKU,Western Kentucky
+3444,W Michigan,Western Michigan
+3447,Wagner,Wagner
+3448,Wake Forest,Wake Forest
+3449,Washington,Washington
+3450,Washington St,Washington State
+3451,Weber St,Weber State
+3452,West Virginia,West Virginia
+3453,WI Green Bay,Green Bay
+3454,WI Milwaukee,Milwaukee
+3455,Wichita St,Wichita State
+3456,William & Mary,William & Mary
+3457,Winthrop,Winthrop
+3458,Wisconsin,Wisconsin
+3459,Wofford,Wofford
+3460,Wright St,Wright State
+3461,Wyoming,Wyoming
+3462,Xavier,Xavier
+3463,Yale,Yale
+3464,Youngstown St,Youngstown State
+3465,Cal Baptist,California Baptist
+3466,North Alabama,North Alabama
+3467,Merrimack,Merrimack
+3468,Bellarmine,Bellarmine
+3469,Utah Tech,Utah Tech
+3470,Tarleton St,Tarleton State
+3471,UC San Diego,UC San Diego
+3472,St Thomas MN,St. Thomas
+3473,Lindenwood,Lindenwood
+3474,Queens NC,Queens (NC)
+3475,Southern Indiana,Southern Indiana
+3476,Stonehill,Stonehill
+3477,TX A&M Commerce,Texas A&M-Commerce
